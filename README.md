@@ -22,7 +22,7 @@ Bei den hier zur Verfügung gestellten Dokumenten handelt es sich um interaktive
 Falls Sie weitere Anleitungen brauchen, finden Sie im Moodle-Kurs ein kurzes Videotutorial, das Ihnen die verschiedenen Möglichkeiten noch einmal vorstellt.
 
 # Python Ressourcen:
-Wenn Sie noch nie vorher mit Python gearbeitet haben, finden Sie hier ein paar Ressourcen, die Ihnen den Einstieg erleichtern können:
+Wenn Sie vorher noch nie mit Python gearbeitet haben, finden Sie hier ein paar Ressourcen, die Ihnen den Einstieg erleichtern können:
 * [Generelle Infos zu Aufbau und Syntax von Python]( https://www.webmasterpro.de/coding/article/einfuehrung-in-python-aufbau-und-grundlagen.html)
 * [Informationen zu Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
 * ['Spickzettel' zu wichtigen Befehlen und Befehlsstrukturen](http://www.michael-holzapfel.de/progs/python/python_kurz.htm)
