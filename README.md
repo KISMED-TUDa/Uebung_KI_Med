@@ -1,4 +1,4 @@
-# How-to
+# How-to:
 
 Bei den hier zur Verfügung gestellten Dokumenten handelt es sich um interaktive Jupyter Notebooks, die mit Google Colab erstellt wurden. Sie beinhalten sowohl die Anweisungen, was Sie in den entsprechenden Übungen zu tun haben als auch Code-Beispiele und Vorlagen. Wenn Sie Google Colab oder Jupyter Notebook nutzen, können Sie die Übung in den Dokumenten selbst lösen. Alternativ können Sie auch Ihre eigene Python IDE nutzen und das Dokument nur zum Lesen der Aufgabenstellung nutzen. Sie haben folgende Möglichkeiten, diese Übung zu absolvieren:
 
