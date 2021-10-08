@@ -9,7 +9,6 @@ Bei den hier zur Verfügung gestellten Dokumenten handelt es sich um interaktive
 * Wenn man eigene Dokumente öffnen will, z.B. weil man die Übung nicht auf einmal macht und zwischenspeichert, gibt es im Pop-Up die Optionen *Zuletzt geöffnet* und *Google Drive* 
 * Wenn man mehr über Colab lernen will, gibt es links im Pop-Up die *Beispiele*
 
-
 ## 2. Lokales Python
 * Installieren Sie einen Package Manager (z.B. [Anaconda](https://www.anaconda.com/products/individual)), Python wird automatisch mit installiert
 * Erstellen Sie eine Umgebung. Anleitungen dazu finden Sie z.B. [hier](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
@@ -25,5 +24,7 @@ Falls Sie weitere Anleitungen brauchen, finden Sie im Moodle-Kurs ein kurzes Vid
 # Python Ressourcen:
 Wenn Sie noch nie vorher mit Python gearbeitet haben, finden Sie hier ein paar Ressourcen, die Ihnen den Einstieg erleichtern können:
 * [Generelle Infos zu Aufbau und Syntax von Python]( https://www.webmasterpro.de/coding/article/einfuehrung-in-python-aufbau-und-grundlagen.html)
-* [Informationen zu den Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
-* C
+* [Informationen zu Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
+* ['Spickzettel' zu wichtigen Befehlen und Befehlsstrukturen](http://www.michael-holzapfel.de/progs/python/python_kurz.htm)
+* [Python Grundlagen, mit weiterführenden Links (englisch)](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
+* [Die offizielle Python Dokumentation (englisch)](https://www.python.org/doc/)
