@@ -6,7 +6,7 @@ Bei den hier zur Verfügung gestellten Dokumenten handelt es sich um interaktive
 * Google Konto erstellen (der Schritt entfällt natürlich, wenn Sie bereits ein Google-Konto haben)
 * Die Übung über den Link in Moodle öffnen und über *Datei -> Kopie in Drive speichern* eine eigene Kopie erstellen
 * Schon kann man interaktiv mit dem Dokument arbeiten
-* Wenn man eigene Dokumente öffnen will, z.B. weil man die Übung nicht auf einmal macht und zwischenspeichert, gibt es im Pop-Up die Optionen *Zuletzt geöffnet* und *Google Drive* 
+* Wenn man eigene Dokumente öffnen will, z.B. weil man die Übung nicht auf einmal macht und zwischenspeichert, kann man das Dokument entweder über Drive oder direkt über Colab wieder öffnen. In Colab gibt es beim Öffnen einen Pop-Up mit Optionen *Zuletzt geöffnet* und *Google Drive* 
 * Wenn man mehr über Colab lernen will, gibt es links im Pop-Up die *Beispiele*
 
 ## 2. Lokales Python
