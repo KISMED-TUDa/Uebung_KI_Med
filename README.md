@@ -20,11 +20,3 @@ Bei den hier zur Verfügung gestellten Dokumenten handelt es sich um interaktive
 * Wenn Sie weder etwas installieren, noch sich irgendwo registrieren möchten, haben Sie die Möglichkeit einen Python-Web-Anbieter, z.B. https://www.online-python.com/ zu verwenden. Das bringt allerdings seine eigenen Probleme mit sich, weil man oft keine eigenen Bibliotheken installieren kann, sondern auf vorinstallierte Module angewiesen ist.
 
 Falls Sie weitere Anleitungen brauchen, finden Sie im Moodle-Kurs ein kurzes Videotutorial, das Ihnen die verschiedenen Möglichkeiten noch einmal vorstellt.
-
-# Python Ressourcen:
-Wenn Sie vorher noch nie mit Python gearbeitet haben, finden Sie hier ein paar Ressourcen, die Ihnen den Einstieg erleichtern können:
-*  [Generelle Infos zu Aufbau und Syntax von Python]( https://www.webmasterpro.de/coding/article/einfuehrung-in-python-aufbau-und-grundlagen.html)
-*  [Informationen zu Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
-*  ['Spickzettel' zu wichtigen Befehlen und Befehlsstrukturen](http://www.michael-holzapfel.de/progs/python/python_kurz.htm)
-*  [Python Grundlagen, mit weiterführenden Links (englisch)](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
-*  [Die offizielle Python Dokumentation (englisch)](https://www.python.org/doc/)
