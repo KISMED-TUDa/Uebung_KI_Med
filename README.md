@@ -23,8 +23,8 @@ Falls Sie weitere Anleitungen brauchen, finden Sie im Moodle-Kurs ein kurzes Vid
 
 # Python Ressourcen:
 Wenn Sie vorher noch nie mit Python gearbeitet haben, finden Sie hier ein paar Ressourcen, die Ihnen den Einstieg erleichtern können:
-* [Generelle Infos zu Aufbau und Syntax von Python]( https://www.webmasterpro.de/coding/article/einfuehrung-in-python-aufbau-und-grundlagen.html)
-* [Informationen zu Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
-* ['Spickzettel' zu wichtigen Befehlen und Befehlsstrukturen](http://www.michael-holzapfel.de/progs/python/python_kurz.htm)
-* [Python Grundlagen, mit weiterführenden Links (englisch)](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
-* [Die offizielle Python Dokumentation (englisch)](https://www.python.org/doc/)
+*  [Generelle Infos zu Aufbau und Syntax von Python]( https://www.webmasterpro.de/coding/article/einfuehrung-in-python-aufbau-und-grundlagen.html)
+*  [Informationen zu Modulen und der Verwendung von `import`](https://www.python-lernen.de/python-standardbibliothek.htm)
+*  ['Spickzettel' zu wichtigen Befehlen und Befehlsstrukturen](http://www.michael-holzapfel.de/progs/python/python_kurz.htm)
+*  [Python Grundlagen, mit weiterführenden Links (englisch)](https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html)
+*  [Die offizielle Python Dokumentation (englisch)](https://www.python.org/doc/)
